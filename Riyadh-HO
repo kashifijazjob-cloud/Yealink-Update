@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+
+    <!-- =======================
+         Riyadh Office - 1.Management
+         ======================= -->
+    <Menu Name="1.Management">
+        <Unit Name="Abdulaziz - GM" Phone1="100" Phone2="" Phone3=""/>
+        <Unit Name="Haitham - Follow-Up-Officer" Phone1="101" Phone2="" Phone3=""/>
+        <Unit Name="Abdulaziz Fahad Albejadi" Phone1="104" Phone2="" Phone3=""/>
+        <Unit Name="MD Secretary" Phone1="106" Phone2="" Phone3=""/>
+        <Unit Name="Abdul Salam - Office Manager" Phone1="110" Phone2="" Phone3=""/>
+        <Unit Name="Haitham Samir - CEO" Phone1="111" Phone2="" Phone3=""/>
+        <Unit Name="Jawad Arafat - Consultant" Phone1="184" Phone2="" Phone3=""/>
+        <Unit Name="Abdulrahman Fahad Albejadi" Phone1="177" Phone2="" Phone3=""/>
+    </Menu>
+
+    <!-- =======================
+         Riyadh Office - 2.IT
+         ======================= -->
+    <Menu Name="2.IT">
+        <Unit Name="Mahmoud - IT Manager" Phone1="120" Phone2="" Phone3=""/>
+        <Unit Name="Arshad Ahmad - IT" Phone1="121" Phone2="" Phone3=""/>
+        <Unit Name="Ahmed Selmi - IT" Phone1="122" Phone2="" Phone3=""/>
+        <Unit Name="Kashif Ijaz - IT" Phone1="123" Phone2="" Phone3=""/>
+        <Unit Name="Jalal - IT" Phone1="124" Phone2="" Phone3=""/>
+        <Unit Name="Maaz Alzain - ERP Specialist" Phone1="125" Phone2="" Phone3=""/>
+    </Menu>
+
+    <!-- =======================
+         Riyadh Office - 3.Accounts
+         ======================= -->
+    <Menu Name="3.Accounts">
+        <Unit Name="Ahmed Yousef - Finance Manager" Phone1="140" Phone2="" Phone3=""/>
+        <Unit Name="Sara Alzeer - Chief Accountant" Phone1="141" Phone2="" Phone3=""/>
+        <Unit Name="Nasraldeen Slah - Accounts" Phone1="142" Phone2="" Phone3=""/>
+        <Unit Name="Alaa Shahein - Accounts" Phone1="144" Phone2="" Phone3=""/>
+        <Unit Name="Fahad Alamairah - Accounts" Phone1="145" Phone2="" Phone3=""/>
+        <Unit Name="Ahmed Shaker - Cost Supervisor" Phone1="146" Phone2="" Phone3=""/>
+        <Unit Name="Ahmed Abdulhaleem - Accounts" Phone1="147" Phone2="" Phone3=""/>
+        <Unit Name="Muhamed Al Hadi Ali - Accounts" Phone1="152" Phone2="" Phone3=""/>
+        <Unit Name="Abdulaziz Almutairi - Accounts" Phone1="153" Phone2="" Phone3=""/>
+        <Unit Name="Elgasim Ismail - Cash Collection" Phone1="156" Phone2="" Phone3=""/>
+        <Unit Name="Mina Magdy - IA" Phone1="185" Phone2="" Phone3=""/>
+    </Menu>
+
+    <!-- =======================
+         Riyadh Office - 4.Sales
+         ======================= -->
+    <Menu Name="4.Sales">
+        <Unit Name="Atif Sha - Sales Director" Phone1="170" Phone2="" Phone3=""/>
+        <Unit Name="Tamer - Sales Manager" Phone1="171" Phone2="" Phone3=""/>
+        <Unit Name="Khalid Omar - Sales" Phone1="172" Phone2="" Phone3=""/>
+        <Unit Name="Reihan Aldosari - Sales Support" Phone1="195" Phone2="" Phone3=""/>
+    </Menu>
+
+    <!-- =======================
+         Riyadh Office - 5.HR
+         ======================= -->
+    <Menu Name="5.HR">
+        <Unit Name="HR Manager" Phone1="130" Phone2="" Phone3=""/>
+        <Unit Name="Mohamad Alhumaid - HR" Phone1="131" Phone2="" Phone3=""/>
+        <Unit Name="Hadeel - Payroll Officer" Phone1="131" Phone2="" Phone3=""/>
+        <Unit Name="Anoud Alotibi - HR" Phone1="132" Phone2="" Phone3=""/>
+        <Unit Name="Dona Albijadi - HR" Phone1="133" Phone2="" Phone3=""/>
+        <Unit Name="Reem Alshehri - HR" Phone1="136" Phone2="" Phone3=""/>
+    </Menu>
+
+    <!-- =======================
+         Riyadh Office - 6.Procurement
+         ======================= -->
+    <Menu Name="6.Procurement">
+        <Unit Name="Ibtisam Jamaan - Purchasing" Phone1="182" Phone2="" Phone3=""/>
+        <Unit Name="Jamal - Veterinary Services Manager" Phone1="183" Phone2="" Phone3=""/>
+    </Menu>
+
+    <!-- =======================
+         Riyadh Office - 7.Transport
+         ======================= -->
+    <Menu Name="7.Transport">
+        <Unit Name="Wadha Aldosari - Transport" Phone1="191" Phone2="" Phone3=""/>
+        <Unit Name="Saifeldin Elbadawi - Transport" Phone1="192" Phone2="" Phone3=""/>
+    </Menu>
+
+    <!-- =======================
+         Riyadh Office - 8.T.BOY
+         ======================= -->
+    <Menu Name="8.T.BOY">
+        <Unit Name="T-Boy Krishna" Phone1="199" Phone2="" Phone3=""/>
+    </Menu>
+
+</YealinkIPPhoneBook>
