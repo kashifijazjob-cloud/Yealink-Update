@@ -59,7 +59,6 @@
          ======================= -->
     <Menu Name="5.HR">
         <Unit Name="HR Manager" Phone1="130" Phone2="" Phone3=""/>
-        <Unit Name="Mohamad Alhumaid - HR" Phone1="131" Phone2="" Phone3=""/>
         <Unit Name="Hadeel - Payroll Officer" Phone1="131" Phone2="" Phone3=""/>
         <Unit Name="Anoud Alotibi - HR" Phone1="132" Phone2="" Phone3=""/>
         <Unit Name="Dona Albijadi - HR" Phone1="133" Phone2="" Phone3=""/>
