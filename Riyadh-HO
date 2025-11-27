@@ -86,7 +86,6 @@
          ======================= -->
     <Menu Name="8.T.BOY">
         <Unit Name="T-Boy Krishna" Phone1="199" Phone2="" Phone3=""/>
-        <Unit Name="T-Boy Krishna" Phone1="219" Phone2="" Phone3=""/>
     </Menu>
 
 </YealinkIPPhoneBook>
